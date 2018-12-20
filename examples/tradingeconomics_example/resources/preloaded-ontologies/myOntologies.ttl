@@ -1,0 +1,3 @@
+@prefix : <http://datamart.isi.edu/> .
+@prefix datamart: <http://datamart.isi.edu/datamart#> .
+@prefix attribute: <http://datamart.isi.edu/attribute#> .
